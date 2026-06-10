@@ -1,0 +1,12 @@
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\bin\Debug\net10.0\IA_AstroBooking.IA_API.Domain.deps.json
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\bin\Debug\net10.0\IA_AstroBooking.IA_API.Domain.dll
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\bin\Debug\net10.0\IA_AstroBooking.IA_API.Domain.pdb
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\obj\Debug\net10.0\IA_AstroBooking.IA_API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\obj\Debug\net10.0\IA_AstroBooking.IA_API.Domain.AssemblyInfoInputs.cache
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\obj\Debug\net10.0\IA_AstroBooking.IA_API.Domain.AssemblyInfo.cs
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\obj\Debug\net10.0\IA_AstroBooking.IA_API.Domain.csproj.CoreCompileInputs.cache
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\obj\Debug\net10.0\IA_AstroBooking.IA_API.Domain.sourcelink.json
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\obj\Debug\net10.0\IA_AstroBooking.IA_API.Domain.dll
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\obj\Debug\net10.0\refint\IA_AstroBooking.IA_API.Domain.dll
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\obj\Debug\net10.0\IA_AstroBooking.IA_API.Domain.pdb
+C:\Personales\CURSOS\IA\IA_AstroBooking\IA_AstroBooking\IA_AstroBooking.IA_API.Domain\obj\Debug\net10.0\ref\IA_AstroBooking.IA_API.Domain.dll

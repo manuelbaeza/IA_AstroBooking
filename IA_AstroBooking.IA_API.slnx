@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="IA_AstroBooking.IA_API.API/IA_AstroBooking.IA_API.API.csproj" />
+  <Project Path="IA_AstroBooking.IA_API.Application.Tests/IA_AstroBooking.IA_API.Application.Tests.csproj" />
+  <Project Path="IA_AstroBooking.IA_API.Application/IA_AstroBooking.IA_API.Application.csproj" />
+  <Project Path="IA_AstroBooking.IA_API.Domain/IA_AstroBooking.IA_API.Domain.csproj" />
+  <Project Path="IA_AstroBooking.IA_API.Infrastructure/IA_AstroBooking.IA_API.Infrastructure.csproj" />
+</Solution>

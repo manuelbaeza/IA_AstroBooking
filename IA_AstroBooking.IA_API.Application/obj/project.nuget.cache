@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2WEMDxapboU=",
+  "success": true,
+  "projectFilePath": "C:\\Personales\\CURSOS\\IA\\IA_AstroBooking\\IA_AstroBooking\\IA_AstroBooking.IA_API.Application\\IA_AstroBooking.IA_API.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baezam1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.9\\microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
