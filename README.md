@@ -166,6 +166,22 @@ dotnet run --project IA_AstroBooking.IA_API.API
 
 Swagger UI queda disponible en la URL que informe la aplicacion al iniciar (por ejemplo `/swagger`).
 
+## Instrucciones de creación del proyecto 
+- Crear webapi llamada IA_AstroBooking.IA_API.API con framework net10.0
+- Necesito crear una solución llamada IA_AstroBooking.IA_API de 4 capas en net10.0
+- Crea la libreria de clases llamada IA_AstroBooking.IA_API.Domain en net10.0
+- Crea la libreria de clases llamada IA_AstroBooking.IA_API.Application en net10.0
+- Crea la libreria de clases llamada IA_AstroBooking.IA_API.Infrastructure net10.0
+- agregar referencia IA_AstroBooking.IA_API.Application/IA_AstroBooking.IA_API.Application.csproj reference IA_AstroBooking.IA_API.Domain/IA_AstroBooking.IA_API.Domain.csproj --> Dominio es independiente de los demas proyectos
+- agregar referencia IA_AstroBooking.IA_API.Infrastructure/IA_AstroBooking.IA_API.Infrastructure.csproj reference IA_AstroBooking.IA_API.Domain/IA_AstroBooking.IA_API.Domain.csproj
+- agregar referencia IA_AstroBooking.IA_API.Infrastructure/IA_AstroBooking.IA_API.Infrastructure.csproj reference IA_AstroBooking.IA_API.Application/IA_AstroBooking.IA_API.Application.csproj
+- agregar referencia IA_AstroBooking.IA_API.API/IA_AstroBooking.IA_API.API.csproj reference IA_AstroBooking.IA_API.Application/IA_AstroBooking.IA_API.Application.csproj IA_AstroBooking.IA_API.Infrastructure/IA_AstroBooking.IA_API.Infrastructure.csproj
+- Crear un controllador de ejemplo GET llamado GetNameController.cs Este controlador se debe conectar con IA_AstroBooking.IA_API.Application y crar un método incluyendo CQRS
+- El método de IA_AstroBooking.IA_API.Application se comunica con IA_AstroBooking.IA_API.Infrastructure
+- la implementacion de cada capa tiene que tener Interfaces
+- implementar Swagger al proyecto
+
+
 ## Author
 
 - [Manuel Baeza Sanhueza](https://www.linkedin.com/in/manuel-baeza-b0a00336/)
