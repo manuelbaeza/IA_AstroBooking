@@ -1,3 +1,7 @@
+---
+description: Instrucciones de desarrollo para el proyecto IA_AstroBooking en C#.
+applyTo: **/*.cs
+---
 # Instrucciones de Desarrollo C# - IA_AstroBooking
 
 ## Convenciones de Código
