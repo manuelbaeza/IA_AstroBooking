@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IA_AstroBooking.IA_API.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2721bfdce1dcd918c5e813fa9a4d076cf2762cac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50c61f44f875d4940121c7db466a0f69adca6e5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("IA_AstroBooking.IA_API.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IA_AstroBooking.IA_API.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,6 +14,11 @@ public sealed class GetNameController : ControllerBase
         _getNameQueryService = getNameQueryService;
     }
 
+    /// <summary>
+    /// Get the name of the API.
+    /// </summary>
+    /// <param name="cancellationToken"></param>
+    /// <returns></returns>
     [HttpGet]
     [ProducesResponseType(typeof(GetNameResponse), StatusCodes.Status200OK)]
     public async Task<ActionResult<GetNameResponse>> Get(CancellationToken cancellationToken)
