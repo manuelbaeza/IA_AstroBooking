@@ -3,6 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace IA_AstroBooking.IA_API.API.Controllers;
 
+/// <summary>
+/// Controller to get the name of the API.
+/// </summary>
 [ApiController]
 [Route("api/[controller]")]
 public sealed class GetNameController : ControllerBase
