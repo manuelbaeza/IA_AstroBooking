@@ -9,6 +9,10 @@ public sealed class GetNameController : ControllerBase
 {
     private readonly IGetNameQueryService _getNameQueryService;
 
+    /// <summary>
+    /// Constructor for GetNameController.
+    /// </summary>
+    /// <param name="getNameQueryService"></param>
     public GetNameController(IGetNameQueryService getNameQueryService)
     {
         _getNameQueryService = getNameQueryService;
